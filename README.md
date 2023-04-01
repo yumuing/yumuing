@@ -19,4 +19,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+![](https://raw.githubusercontent.com/yumuing/yumuing/main/assets/github-contribution-grid-snake.svg)
+
 
