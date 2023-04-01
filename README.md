@@ -21,6 +21,5 @@
 
 ## My GitHub Contributions
 
-![](https://raw.githubusercontent.com/yumuing/yumuing/main/assets/github-contribution-grid-snake.svg)
-
+![](https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/github-contribution-grid-snake.svg)
 
