@@ -4,7 +4,7 @@
 
 **Preview**：From GuangZhou, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
 
-**Blog**：[My Blog](https://yumuing.top)
+**Blog**：[Yumuing 博客：做技术的朝拜者](https://yumuing.top)
 
 **Contact**：yumuing@outlook.com
 
