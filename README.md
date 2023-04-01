@@ -1,6 +1,12 @@
 <h1 align="center">
-  Hey, I'm Yumuing!
+  Hey, I'm Yumuing!👏
 </h1>
+
+**Preview**：From GuangZhou, China 🏝, love coding 🐍. A student 🏫，love photographing beautiful things🌿.
+
+**Blog**：[My Blog](https://yumuing.top)
+
+**Contact**：yumuing@outlook.com
 
 ## 🌠[Coding Time](https://yumuing.top)
 > the projects I'm working on
