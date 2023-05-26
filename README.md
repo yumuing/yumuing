@@ -20,7 +20,3 @@
 </div>
 
 <br><br>
-
-## My GitHub Contributions
-
-![](https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/github-contribution-grid-snake.svg)
