@@ -20,7 +20,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=date_night" width="320" />
 <br/>
-<div align=center><img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light"/></div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light"/>
+</a>
 <!-- https://github.com/tandpfun/skill-icons -->
 </p>
 
