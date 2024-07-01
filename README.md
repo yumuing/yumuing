@@ -16,24 +16,14 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-<img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=cobalt" width="300"/>
+<img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="500"/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=date_night" width="320" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=algolia&hide_border=false" width="500" />
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light"/>
-</a>
 <!-- https://github.com/tandpfun/skill-icons -->
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 <!-- https://github.com/badges/shields -->
