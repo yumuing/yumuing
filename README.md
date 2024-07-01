@@ -17,15 +17,13 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=&theme=transparent" heigth="210px"/>
-<img align="center" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="250px"/>
+<img align="center" src="https://github.com/yumuing/yumuing/assets/77838031/25d46fce-bcac-4d47-a697-b3b5d5f671e4" width="250px"/>
 <br/>
 <div align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
 </div>
 <!-- https://github.com/tandpfun/skill-icons -->
 </p>
-
-
 
 <!-- https://github.com/badges/shields -->
 
