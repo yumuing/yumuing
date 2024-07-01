@@ -19,7 +19,6 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/github-contribution-grid-snake.svg"/>
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/>
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [TextGrad：即插即用 LLM 自动优化框架，提高各专业文本领域零样本准确率](https://blog.csdn.net/yumuing/article/details/140070271)
 - [LangGPT：高质量提示词框架](https://blog.csdn.net/yumuing/article/details/140053105)
