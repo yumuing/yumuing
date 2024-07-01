@@ -18,7 +18,7 @@
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=solarized-dark&hide_border=true" width="420" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=solarized-dark&hide_border=true" width="438" />
 <br/>
 <br/>
 <br/>
