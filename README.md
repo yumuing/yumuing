@@ -17,6 +17,9 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <br/>
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
