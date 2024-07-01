@@ -21,7 +21,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=solarized-dark&hide_border=true" height="200" />
 <br/>
 <br/>
-<img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light"/>
+<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
 <!-- https://github.com/tandpfun/skill-icons -->
 </p>
 
