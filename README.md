@@ -16,7 +16,7 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-![test](https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/github-contribution-grid-snake.svg)
+<img align="center" src="https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/github-contribution-grid-snake.svg"/>
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/>
 # Blog posts
