@@ -33,4 +33,4 @@ jobs:
           comment_tag_name: "STACKOVERFLOW"
           feed_list: "https://rss.csdn.net/yumuing/rss/map?spm=1001.2014.3001.5494"
           template: "<tr><td>$title</td><td>$url</td></tr>"
-          title_max_length: "30"
+          title_max_length: "25"
