@@ -17,7 +17,7 @@
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=&theme=transparent" heigth="210px"/>
-<img align="center" src="https://github.com/yumuing/yumuing/assets/77838031/25d46fce-bcac-4d47-a697-b3b5d5f671e4" width="250px"/>
+<img align="center" src="https://github.com/yumuing/yumuing/assets/77838031/ef77265d-62aa-4f6e-af87-cca5aa2915a7" width="250px"/>
 <br/>
 <div align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
