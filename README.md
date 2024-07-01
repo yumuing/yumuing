@@ -19,13 +19,10 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/github-contribution-grid-snake.svg"/>
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/>
-<!-- BLOG-POST-LIST:START -->
-- [TextGrad：即插即用 LLM 自动优化框架，提高各专业文本领域零样本准确率](https://blog.csdn.net/yumuing/article/details/140070271)
-- [LangGPT：高质量提示词框架](https://blog.csdn.net/yumuing/article/details/140053105)
-- [ExVideo: 提升5倍性能-用于视频合成模型的新型后调谐方法](https://blog.csdn.net/yumuing/article/details/140052840)
-- [Depth Anything V2：抖音开源高性能任何单目图像深度估计V2版本，并开放具有精确注释和多样化场景的多功能评估基准](https://blog.csdn.net/yumuing/article/details/139884505)
-- [MCT Self-Refine：创新集成蒙特卡洛树搜索 （MCTS）提高复杂数学推理任务的性能，超GPT4，使用 LLaMa-3 8B 进行自我优化](https://blog.csdn.net/yumuing/article/details/139877617)
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
 <br/>
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
