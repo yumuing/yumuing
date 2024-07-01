@@ -21,6 +21,7 @@
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/>
 
 <table align="center">
+<tr><td rowspan="6"><img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/></td></tr>
 <!-- STACKOVERFLOW:START --><tr><td>TextGrad：即插即用 LLM 自动...</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><tr><td>LangGPT：高质量提示词框架</td><td>https://blog.csdn.net/yumuing/article/details/140053105</td></tr><tr><td>ExVideo: 提升5倍性能-用于视频...</td><td>https://blog.csdn.net/yumuing/article/details/140052840</td></tr><tr><td>Depth Anything V2：抖音...</td><td>https://blog.csdn.net/yumuing/article/details/139884505</td></tr><tr><td>MCT Self-Refine：创新集成...</td><td>https://blog.csdn.net/yumuing/article/details/139877617</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 <br/>
