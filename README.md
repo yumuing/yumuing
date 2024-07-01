@@ -17,7 +17,7 @@
 <br/>
 <img src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=tokyonight" width="400" style="margin: 0 auto;" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=tokyonight" width="400 style="margin: 0 auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&layout=compact&hide=dockerfile&theme=tokyonight" width="400 style="padding-top: 50;" />
 <br/>
 <br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light" />
