@@ -18,10 +18,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumuing&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
+<img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light" />
 <!-- https://github.com/tandpfun/skill-icons -->
 </p>
-<p align="center" style="font-size: 2rem; color: rgb(91, 191, 247);">Programming language skills</p>
-<img align="center" src="https://skillicons.dev/icons?i=py,java,spring,vue,js,ts,c,cpp,md,matlab&theme=light" />
+
 
 <!-- https://github.com/badges/shields -->
 
