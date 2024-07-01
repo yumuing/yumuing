@@ -20,7 +20,7 @@
 <br/>
 
 
-<table rules="cols">
+<table style="font-size:16">
   <tr><td rowspan="6"><img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=solarized-dark" width="400"/></td><td>Title</td><td>Link</td></tr>
   <!-- STACKOVERFLOW:START --><tr><td>TextGrad：即插即用 LLM 自动优化框架，提高各专业文本领域零样本准确率</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><tr><td>LangGPT：高质量提示词框架</td><td>https://blog.csdn.net/yumuing/article/details/140053105</td></tr><tr><td>ExVideo: 提升5倍性能-用于视频合成模型的新型后调谐方法</td><td>https://blog.csdn.net/yumuing/article/details/140052840</td></tr><tr><td>Depth Anything V2：抖音开源高性能任何单目图像深度估计V2版本，并开放具有精确注释和多样化场景的多功能评估基准</td><td>https://blog.csdn.net/yumuing/article/details/139884505</td></tr><tr><td>MCT Self-Refine：创新集成蒙特卡洛树搜索 （MCTS）提高复杂数学推理任务的性能，超GPT4，使用 LLaMa-3 8B 进行自我优化</td><td>https://blog.csdn.net/yumuing/article/details/139877617</td></tr><!-- STACKOVERFLOW:END -->
 </table>
