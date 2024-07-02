@@ -34,7 +34,8 @@
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=yumuing&abbreviated=true&color=yellow" />
 </p>
-<div align='center' ><font size='70' face="STCAIYUN">Latest Blogs</font></div>
+<div align='center' ></div>
+<font size='70' face="STCAIYUN">Latest Blogs</font>
 <table align="center">
 <!-- STACKOVERFLOW:START --><tr><td>TextGrad：即插即用 LLM 自动优化框架，...</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><tr><td>LangGPT：高质量提示词框架</td><td>https://blog.csdn.net/yumuing/article/details/140053105</td></tr><tr><td>ExVideo: 提升5倍性能-用于视频合成模型的...</td><td>https://blog.csdn.net/yumuing/article/details/140052840</td></tr><tr><td>Depth Anything V2：抖音开源高性能...</td><td>https://blog.csdn.net/yumuing/article/details/139884505</td></tr><tr><td>MCT Self-Refine：创新集成蒙特卡洛树...</td><td>https://blog.csdn.net/yumuing/article/details/139877617</td></tr><!-- STACKOVERFLOW:END -->
 </table>
