@@ -40,7 +40,7 @@
 <br/>
 <table align="center">
 <tr><th>Title</th><th>Link</th></tr>
-<!-- STACKOVERFLOW:START --><tr><td>【论文解读】AGENTLESS：揭开LLM软件工程...</td><td>https://blog.csdn.net/yumuing/article/details/140236590</td></tr><tr><td>【论文解读】可灵&lpar;快手&rpar;｜LivePortrait...</td><td>https://blog.csdn.net/yumuing/article/details/140236042</td></tr><tr><td>TextGrad：即插即用 LLM 自动优化框架，...</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><tr><td>LangGPT：高质量提示词框架</td><td>https://blog.csdn.net/yumuing/article/details/140053105</td></tr><tr><td>ExVideo: 提升5倍性能-用于视频合成模型的...</td><td>https://blog.csdn.net/yumuing/article/details/140052840</td></tr><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START --><tr><td>【论文解读】AGENTLESS：揭开LLM软件工程...</td><td>https://blog.csdn.net/yumuing/article/details/140236590</td></tr><tr><td>LivePortrait：让人脸动起来的魔法秀｜可...</td><td>https://blog.csdn.net/yumuing/article/details/140236042</td></tr><tr><td>TextGrad：即插即用 LLM 自动优化框架，...</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><tr><td>LangGPT：高质量提示词框架</td><td>https://blog.csdn.net/yumuing/article/details/140053105</td></tr><tr><td>ExVideo: 提升5倍性能-用于视频合成模型的...</td><td>https://blog.csdn.net/yumuing/article/details/140052840</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 <!-- https://github.com/kyechan99/capsule-render -->
 <br/>
