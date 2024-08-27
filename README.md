@@ -40,7 +40,7 @@
 <br/>
 <table align="center">
 <tr><th>Title</th><th>Link</th></tr>
-<!-- STACKOVERFLOW:START --><tr><td>AI 论文工厂：不到15美元，写完你的毕业论文</td><td>https://blog.csdn.net/yumuing/article/details/141502355</td></tr><tr><td>解码 WayveScenes101 数据集：自动驾...</td><td>https://blog.csdn.net/yumuing/article/details/140389478</td></tr><tr><td>【论文解读】AGENTLESS：揭开LLM软件工程...</td><td>https://blog.csdn.net/yumuing/article/details/140236590</td></tr><tr><td>LivePortrait：让人脸动起来的魔法秀｜可...</td><td>https://blog.csdn.net/yumuing/article/details/140236042</td></tr><tr><td>TextGrad：即插即用 LLM 自动优化框架，...</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START --><tr><td>AI Scientist：不到15美元，写完你的毕...</td><td>https://blog.csdn.net/yumuing/article/details/141502355</td></tr><tr><td>解码 WayveScenes101 数据集：自动驾...</td><td>https://blog.csdn.net/yumuing/article/details/140389478</td></tr><tr><td>【论文解读】AGENTLESS：揭开LLM软件工程...</td><td>https://blog.csdn.net/yumuing/article/details/140236590</td></tr><tr><td>LivePortrait：让人脸动起来的魔法秀｜可...</td><td>https://blog.csdn.net/yumuing/article/details/140236042</td></tr><tr><td>TextGrad：即插即用 LLM 自动优化框架，...</td><td>https://blog.csdn.net/yumuing/article/details/140070271</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 <!-- https://github.com/kyechan99/capsule-render -->
 <br/>
