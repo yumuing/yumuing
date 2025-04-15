@@ -40,7 +40,7 @@
 <br/>
 <table align="center">
 <tr><th>Title</th><th>Link</th></tr>
-<!-- STACKOVERFLOW:START --><tr><td>融合动态权重与抗刷机制的网文评分系统——基于优书网...</td><td>https://blog.csdn.net/yumuing/article/details/147170481</td></tr><tr><td>Visual-RFT视觉强化微调：用「试错学习」教...</td><td>https://blog.csdn.net/yumuing/article/details/146124456</td></tr><tr><td>AI Scientist：不到15，自动写完毕业论...</td><td>https://blog.csdn.net/yumuing/article/details/141502355</td></tr><tr><td>解码 WayveScenes101 数据集：自动驾...</td><td>https://blog.csdn.net/yumuing/article/details/140389478</td></tr><tr><td>【论文解读】AGENTLESS：揭开LLM软件工程...</td><td>https://blog.csdn.net/yumuing/article/details/140236590</td></tr><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START --><tr><td>AI 用电脑比你还溜？Agent S2 让复杂任务...</td><td>https://blog.csdn.net/yumuing/article/details/147234849</td></tr><tr><td>告别 “生成废图”！UNO 让你一键掌控多物体图像...</td><td>https://blog.csdn.net/yumuing/article/details/147235223</td></tr><tr><td>融合动态权重与抗刷机制的网文评分系统——基于优书网...</td><td>https://blog.csdn.net/yumuing/article/details/147170481</td></tr><tr><td>Visual-RFT视觉强化微调：用「试错学习」教...</td><td>https://blog.csdn.net/yumuing/article/details/146124456</td></tr><tr><td>AI Scientist：不到15，自动写完毕业论...</td><td>https://blog.csdn.net/yumuing/article/details/141502355</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 <!-- https://github.com/kyechan99/capsule-render -->
 <br/>
