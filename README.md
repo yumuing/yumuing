@@ -40,7 +40,7 @@
 <br/>
 <table align="center">
 <tr><th>Title</th><th>Link</th></tr>
-<!-- STACKOVERFLOW:START --><tr><td>最新2025：解决java.lang.Illega...</td><td>https://blog.csdn.net/yumuing/article/details/148101725</td></tr><tr><td>Anki 学习法</td><td>https://blog.csdn.net/yumuing/article/details/147953206</td></tr><tr><td>♨️【Git 黑科技！】历史记录凭空消失？教你彻底...</td><td>https://blog.csdn.net/yumuing/article/details/147644742</td></tr><tr><td>AI 用电脑比你还溜？Agent S2 让复杂任务...</td><td>https://blog.csdn.net/yumuing/article/details/147234849</td></tr><tr><td>告别 “生成废图”！UNO 让你一键掌控多物体图像...</td><td>https://blog.csdn.net/yumuing/article/details/147235223</td></tr><!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START --><tr><td>实战指南：部署MinerU多模态文档解析API与D...</td><td>https://blog.csdn.net/yumuing/article/details/148670256</td></tr><tr><td>最新2025：解决java.lang.Illega...</td><td>https://blog.csdn.net/yumuing/article/details/148101725</td></tr><tr><td>Anki 学习法</td><td>https://blog.csdn.net/yumuing/article/details/147953206</td></tr><tr><td>♨️【Git 黑科技！】历史记录凭空消失？教你彻底...</td><td>https://blog.csdn.net/yumuing/article/details/147644742</td></tr><tr><td>AI 用电脑比你还溜？Agent S2 让复杂任务...</td><td>https://blog.csdn.net/yumuing/article/details/147234849</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 <!-- https://github.com/kyechan99/capsule-render -->
 <br/>
